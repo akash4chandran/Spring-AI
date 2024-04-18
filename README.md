@@ -253,3 +253,7 @@ public class AiController {
 ```
 # Conclusion
 Overall, this article serves as a guide for developers looking to enhance their conversational AI capabilities using OpenAI and Spring AI, leveraging advanced embedding and chat models for more intelligent and context-aware responses.
+
+# Reference
+[Spring AI](https://docs.spring.io/spring-ai/reference/index.html)
+
